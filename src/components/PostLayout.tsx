@@ -67,9 +67,9 @@ export default function PostLayout({
               <div>
                 <Date date={date} />
               </div>
-              <div>
+              {/*<div>
                 <Author author={getAuthor(author)} />
-              </div>
+              </div>*/} 
             </div>
           </header>
           <div className={styles.content}>{children}</div>
