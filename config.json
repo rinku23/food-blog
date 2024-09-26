@@ -1,19 +1,14 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Recipe",
-  "site_description": "Food blog",
+  "site_title": "Reena's Recipes",
+  "site_description": "Blog on Vegetarian food recipes",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Foodblog",
+    "Vegetarian recipes",
+    "recipes",
+    "easyrecipes"
   ],
   "posts_per_page": 5,
   "twitter_account": "@reena-food-blog",
-  "github_account": "wutali"
+  "github_account": "reena23"
 }
